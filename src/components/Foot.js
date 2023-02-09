@@ -42,15 +42,6 @@ export const Foot = () => {
                     </a>
                 </div>
             </div>
-            {/* <div className="block" id="block2">
-                <h3>Links<div className="underline"><span></span></div></h3> 
-                <ul>
-                    <li><a href="/" className="link">Home</a></li>
-                    <li><a href="/" className="link">Gallery</a></li>
-                    <li><a href="/" className="link">Team</a></li>
-                    <li><a href="/" className="link">Events</a></li>
-                </ul>
-            </div> */}
             <div className="block" id="block3">
                 <p className="head">College<div className="underline"><span></span></div></p>
                 <div className="flex">
@@ -71,23 +62,6 @@ export const Foot = () => {
                 </div>
                 <b>+91-9988776655</b>
             </div>
-            {/* <div className="block" id="block4">
-                <div className="newsletter">
-                    <div className="flex">
-                        <h3>Newsletter<div className="underline"><span></span></div></h3>
-                    </div>
-                    
-                    <form>
-                    
-                    <input type="email" placeholder="Enter your Email ID" required />
-                    <button type="submit">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="white" class="bi bi-arrow-right-square-fill" viewBox="0 0 16 16">
-                            <path d="M0 14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2a2 2 0 0 0-2 2v12zm4.5-6.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5a.5.5 0 0 1 0-1z"/>
-                        </svg>  
-                    </button>
-                    </form>
-                </div>
-            </div>*/}
         </div> 
         <div className="text">
             <p>
